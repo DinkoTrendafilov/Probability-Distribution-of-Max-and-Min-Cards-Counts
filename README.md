@@ -64,7 +64,7 @@ where \( s + h + d + c = 13 \), and each suit count ranges from 0 to 13.
 
 bash
 # Clone the repository
-git clone https://github.com/yourusername/bridge-distribution-analysis.git
+git clone https: https://github.com/DinkoTrendafilov/Probability-Distribution-of-Max-and-Min-Cards-Counts/blob/main/probability_distribution_of_maximum_and%20_minimum_suit_counts.ipynb
 
 # Navigate to the directory
 cd bridge-distribution-analysis
